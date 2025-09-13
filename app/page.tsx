@@ -2,7 +2,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import GlowCard from "./components/GlowCard";
+import GlowCard from "../components/GlowCard";
 import config from "./app.config";
 
 export default function Page() {
